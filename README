@@ -1,0 +1,8 @@
+pinochle.idr
+============
+
+This is an implementation of the card game Pinochle:
+<https://en.wikipedia.org/wiki/Pinochle>, written in Idris.
+
+pinochle.idr is licensed under the FreeBSD license (the one with 2
+clauses). See the LICENSE file for details.
